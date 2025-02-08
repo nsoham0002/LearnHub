@@ -25,7 +25,7 @@ export default function Home() {
       <div className="flex items-center justify-between mb-8">
         <div className="flex items-center space-x-3">
           <BookOpen className="h-8 w-8 text-indigo-600" />
-          <h1 className="text-3xl font-bold text-gray-900">Available Courses</h1>
+          <h1 className="text-3xl font-bold text-blue-500">Available Courses</h1>
         </div>
         <div className="text-gray-600">
           {courses.length} courses available
@@ -47,7 +47,9 @@ export default function Home() {
 
           <div className="relative">
             <Filter className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" />
+            <label htmlFor="category-select" className="sr-only">Select Category</label>
             <select
+              id="category-select"
               value={selectedCategory}
               onChange={(e) => setSelectedCategory(e.target.value)}
               className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 appearance-none"
@@ -57,10 +59,11 @@ export default function Home() {
               ))}
             </select>
           </div>
-
           <div className="relative">
             <Filter className="absolute left-3 top-1/2 transform -translate-y-1/2 h-5 w-5 text-gray-400" />
+            <label htmlFor="level-select" className="sr-only">Select Level</label>
             <select
+              id="level-select"
               value={selectedLevel}
               onChange={(e) => setSelectedLevel(e.target.value)}
               className="w-full pl-10 pr-4 py-2 border border-gray-300 rounded-lg focus:ring-2 focus:ring-indigo-500 focus:border-indigo-500 appearance-none"
