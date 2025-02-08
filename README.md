@@ -1,121 +1,26 @@
 # LearnHub
 
-A modern e-learning platform with features like course listing, progress tracking, and video embedding. This project includes a styled and interactive multi-page interface with enhanced UI/UX features.
+LearnHub is a modern e-learning platform that offers course listings, progress tracking, and video embedding. The interface is multi-page and interactive, with enhanced UI/UX features.
 
-## Features
+## Key Features
 
-### Navigation
-- Clean navigation bar with logo and main sections
-- React Router for seamless page transitions
-
-### Course Listing (Home Page)
-- Grid layout of course cards
-- Visual progress indicators
-- Course thumbnails and key information
-- Hover effects and smooth transitions
-
-### Course Detail Page
-- Comprehensive course information
-- Module listing with completion status
-- Interactive module buttons
-- Progress tracking
-
-### Progress Tracking Page
-- Overall progress visualization
-- Individual course progress bars
-- Clean, organized layout
-
-### UI Features
-- Responsive design
-- Modern color scheme with Indigo as primary color
-- Consistent spacing and typography
-- Loading states and error handling
-- Lucide icons for visual elements
+- **Navigation:** Clean bar with logo and sections, seamless transitions via React Router.
+- **Course Listing:** Grid layout, progress indicators, thumbnails, key info, and smooth transitions.
+- **Course Detail:** Detailed course info, module listing, progress tracking, and interactive buttons.
+- **Progress Tracking:** Visualization of overall and individual course progress.
+- **UI Design:** Responsive with a modern indigo color scheme, consistent spacing/typography, loading/error states, Lucide icons.
 
 ## Enhancements
 
-### Enhanced Course Cards
-- Added skill tags
-- Student enrollment numbers
-- Course ratings
-- Difficulty level badges
-- More detailed course information
-- Better visual hierarchy
-
-### Improved Course Detail Page
-- Split into two columns for better organization
-- Added video player placeholder
-- Module resources and downloads
-- Interactive module selection
-- Detailed course information
-- Skills section
-- Course statistics
-
-### Enhanced Home Page
-- Search functionality
-- Category filtering
-- Difficulty level filtering
-- Course count
-- Better course grid layout
-- Empty state handling
-
-### More Course Data
-- Added more sample courses
-- Enhanced course information
-- Added resources for each module
-- More detailed descriptions
-- Skills and learning outcomes
-- Student enrollment data
-- Course ratings
-- Last updated dates
-
-### Better UI/UX
-- Improved typography
-- Better spacing and layout
-- More interactive elements
-- Enhanced visual feedback
-- Consistent design language
-- Better mobile responsiveness
-
-### Dark Mode Support
-- Added theme context for managing light/dark mode
-- Theme toggle in navbar
-- Persistent theme preference
-- Dark mode styles for all components
-
-### New Footer Component
-- Company information
-- Quick links
-- Categories
-- Contact information
-- Social media links
-- Copyright notice
-
-### Help & Support Page
-- Search functionality
-- Support options (Live Chat, Knowledge Base, Email)
-- Frequently Asked Questions
-- Clean and organized layout
-
-### Profile Page
-- User information display
-- Profile statistics
-- Course progress tracking
-- Certificates section
-- Achievement display
-- Account preferences
-
-### Enhanced Navigation
-- Added new nav items for Help and Profile
-- Improved mobile responsiveness
-- Better visual feedback
-
-### UI Improvements
-- Consistent dark mode support
-- Better spacing and typography
-- Enhanced visual hierarchy
-- More interactive elements
-- Improved accessibility
+- **Course Cards:** Skill tags, enrollment numbers, ratings, difficulty badges, and improved hierarchy.
+- **Course Detail:** Two-column layout, video player placeholder, module resources, interactive selection, skills, and statistics.
+- **Home Page:** Search, category and difficulty filtering, course count, better layout, and empty state handling.
+- **UI/UX:** Improved typography, spacing, interactive elements, visual feedback, consistent design, and better mobile responsiveness.
+- **Dark Mode:** Theme context management, navbar toggle, persistent preference, and dark mode styles.
+- **Footer:** Company info, quick links, categories, contact info, social media links, and copyright notice.
+- **Help & Support:** Search functionality, live chat, knowledge base, email, FAQs, clean layout.
+- **Profile Page:** User info, statistics, progress tracking, certificates, achievements, and preferences.
+- **Navigation:** New items for Help and Profile, improved mobile responsiveness, better visual feedback.
 
 ## Development
 
