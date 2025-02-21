@@ -7,10 +7,7 @@
 
 ## 📸 Output Example:
 
-<img src="https://raw.githubusercontent.com/nsoham0002/LearnHub/blob/main/assetss/learnhub.png" width="400">
-
-
-
+<img src="https://raw.githubusercontent.com/nsoham0002/LearnHub/main/assetss/learnhub.png" width="500">
 
 LearnHub is a modern e-learning platform that offers course listings, progress tracking, and video embedding. The interface is multi-page and interactive, with enhanced UI/UX features.
 
