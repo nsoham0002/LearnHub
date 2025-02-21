@@ -1,5 +1,16 @@
 # LearnHub
 
+## INTERN ID: CT08OYC  
+## DOMAIN NAME: FRONT END DEVELOPMENT  
+## DURATION: 4 WEEKS  
+## MENTOR: NEELA SANTOSH KUMAR  
+
+## 📸 Output Example:
+
+<img src="https://raw.githubusercontent.com/nsoham0002/YapYap/main/chat-assets/learnhub.png" width="400">
+
+
+
 LearnHub is a modern e-learning platform that offers course listings, progress tracking, and video embedding. The interface is multi-page and interactive, with enhanced UI/UX features.
 
 ## Key Features
