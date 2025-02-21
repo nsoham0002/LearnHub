@@ -7,7 +7,7 @@
 
 ## 📸 Output Example:
 
-<img src="https://raw.githubusercontent.com/nsoham0002/YapYap/main/chat-assets/learnhub.png" width="400">
+<img src="https://raw.githubusercontent.com/nsoham0002/YapYap/main/assetss/learnhub.png" width="400">
 
 
 
